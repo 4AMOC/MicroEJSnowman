@@ -1,0 +1,6 @@
+.classpath
+.project
+.settings
+ __SnowMan__.generated.MainActivityStandalone
+bin
+filesystem
